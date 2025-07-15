@@ -2,7 +2,7 @@
   --font-family: "Montserrat", sans-serif;
 }
 
-.categoties {
+#categories {
   margin: auto;
   display: flex;
   flex-direction: column;
